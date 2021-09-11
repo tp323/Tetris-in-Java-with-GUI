@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="96b0a6f4-6b64-406e-aee5-720c831dcdb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/tetris/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/tetris/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tetris/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tetris/GUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tetris/GameArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tetris/GameArea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,5 +142,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tetris_in_Java_with_GUI$GUI.ic" NAME="GUI Coverage Results" MODIFIED="1631364323621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tetris.*</FILTER>
+    </SUITE>
   </component>
 </project>
